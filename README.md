@@ -1,5 +1,5 @@
 # chat-machine
-File-based instant messenger I created when I was ~13 years old. Yeah, that's why it looks like that.
+File-based chat-room I created when I was ~13 years old. Yeah, that's why it looks like that.
 
 The `Core.bat` is a batch script that generates 3 batch files: 
 - ChatMachine.bat
